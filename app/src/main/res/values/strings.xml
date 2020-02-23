@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="wellcome_second_activity">Wellcome Second Activity</string>
+</resources>
